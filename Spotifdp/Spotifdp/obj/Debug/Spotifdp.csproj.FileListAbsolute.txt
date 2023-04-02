@@ -1,0 +1,11 @@
+C:\Users\bapti\source\repos\Spotifdp\Spotifdp\bin\Debug\Spotifdp.exe.config
+C:\Users\bapti\source\repos\Spotifdp\Spotifdp\bin\Debug\Spotifdp.exe
+C:\Users\bapti\source\repos\Spotifdp\Spotifdp\bin\Debug\Spotifdp.pdb
+C:\Users\bapti\source\repos\Spotifdp\Spotifdp\obj\Debug\Spotifdp.csproj.AssemblyReference.cache
+C:\Users\bapti\source\repos\Spotifdp\Spotifdp\obj\Debug\Spotifdp.csproj.SuggestedBindingRedirects.cache
+C:\Users\bapti\source\repos\Spotifdp\Spotifdp\obj\Debug\Spotifdp.Properties.Resources.resources
+C:\Users\bapti\source\repos\Spotifdp\Spotifdp\obj\Debug\Spotifdp.csproj.GenerateResource.cache
+C:\Users\bapti\source\repos\Spotifdp\Spotifdp\obj\Debug\Spotifdp.csproj.CoreCompileInputs.cache
+C:\Users\bapti\source\repos\Spotifdp\Spotifdp\obj\Debug\Spotifdp.exe
+C:\Users\bapti\source\repos\Spotifdp\Spotifdp\obj\Debug\Spotifdp.pdb
+C:\Users\bapti\source\repos\Spotifdp\Spotifdp\obj\Debug\Spotifdp.Form1.resources
